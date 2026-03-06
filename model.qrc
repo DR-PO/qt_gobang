@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/QSS">
+        <file>ubuntu.qss</file>
+    </qresource>
+</RCC>

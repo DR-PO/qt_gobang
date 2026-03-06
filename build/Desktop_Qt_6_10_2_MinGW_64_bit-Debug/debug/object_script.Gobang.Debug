@@ -1,0 +1,12 @@
+debug/chess.o
+debug/gameinterface.o
+debug/gamelogic.o
+debug/main.o
+debug/mainwindow.o
+debug/menu.o
+debug/net.o
+debug/player.o
+debug/qrc_image.o
+debug/moc_gameinterface.o
+debug/moc_mainwindow.o
+debug/moc_menu.o

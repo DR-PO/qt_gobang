@@ -1,0 +1,12 @@
+release/chess.o
+release/gameinterface.o
+release/gamelogic.o
+release/main.o
+release/mainwindow.o
+release/menu.o
+release/net.o
+release/player.o
+release/qrc_image.o
+release/moc_gameinterface.o
+release/moc_mainwindow.o
+release/moc_menu.o
